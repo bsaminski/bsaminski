@@ -1,8 +1,6 @@
-## Bartlomiej Saminski
+## welcome
 
-You can use the [editor on GitHub](https://github.com/bsaminski/bsaminski/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hello, welcome to my portfolio. my name is bartlomiej saminski. i am currently studying at the rhode island school of design. orginally born in krakow, poland: i moved to chicago at a young. 
 
 ### Markdown
 
